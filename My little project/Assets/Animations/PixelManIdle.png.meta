@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 7ae3bb45263de304bafb0023d19f6064
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2528289432555651718
+    second: PixelManIdle_0
+  - first:
+      213: 5898486336223027420
+    second: PixelManIdle_1
+  - first:
+      213: -3474760991426786113
+    second: PixelManIdle_2
+  - first:
+      213: -4623228735968691941
+    second: PixelManIdle_3
+  - first:
+      213: -9160455419686955440
+    second: PixelManIdle_4
+  - first:
+      213: 1563363136441552010
+    second: PixelManIdle_5
+  - first:
+      213: -5408242634406519597
+    second: PixelManIdle_6
+  - first:
+      213: 204013116828185451
+    second: PixelManIdle_7
+  - first:
+      213: 6832005297766009952
+    second: PixelManIdle_8
+  - first:
+      213: -5087730867327493493
+    second: PixelManIdle_9
+  - first:
+      213: 3701653998651969049
+    second: PixelManIdle_10
+  - first:
+      213: 7046813413880915037
+    second: PixelManIdle_11
+  - first:
+      213: -3448692942168825998
+    second: PixelManIdle_12
+  - first:
+      213: -1555105970150774557
+    second: PixelManIdle_13
+  - first:
+      213: 8614521174969280414
+    second: PixelManIdle_14
+  - first:
+      213: 3103471694058220350
+    second: PixelManIdle_15
+  - first:
+      213: -2336171135578491192
+    second: PixelManIdle_16
+  - first:
+      213: -5581871724979568981
+    second: PixelManIdle_17
+  - first:
+      213: 4908343187437944933
+    second: PixelManIdle_18
+  - first:
+      213: 3691553014472441204
+    second: PixelManIdle_19
+  - first:
+      213: -210044359327407857
+    second: PixelManIdle_20
+  - first:
+      213: 4806623411738928834
+    second: PixelManIdle_21
+  - first:
+      213: -2911743548086208993
+    second: PixelManIdle_22
+  - first:
+      213: 4430514747695972904
+    second: PixelManIdle_23
+  - first:
+      213: -2597643482433281679
+    second: PixelManIdle_24
+  - first:
+      213: 434077739757200615
+    second: PixelManIdle_25
+  - first:
+      213: 5710716485632537831
+    second: PixelManIdle_26
+  - first:
+      213: 3101800936925617325
+    second: PixelManIdle_27
+  - first:
+      213: 1504716447457970931
+    second: PixelManIdle_28
+  - first:
+      213: 6585271250288922525
+    second: PixelManIdle_29
+  - first:
+      213: 4017507627090399880
+    second: PixelManIdle_30
+  - first:
+      213: 2337155101708109646
+    second: PixelManIdle_31
+  - first:
+      213: 7812730385351265091
+    second: PixelManIdle_32
+  - first:
+      213: -4116431785226330094
+    second: PixelManIdle_33
+  - first:
+      213: 3468878796450867921
+    second: PixelManIdle_34
+  - first:
+      213: 2942083072216252438
+    second: PixelManIdle_35
+  - first:
+      213: 1992122339703631228
+    second: PixelManIdle_36
+  - first:
+      213: 6917964451253623995
+    second: PixelManIdle_37
+  - first:
+      213: 4684406684353153519
+    second: PixelManIdle_38
+  - first:
+      213: 5787475516263988452
+    second: PixelManIdle_39
+  - first:
+      213: -8233369267873631892
+    second: PixelManIdle_40
+  - first:
+      213: -6865207661160557103
+    second: PixelManIdle_41
+  - first:
+      213: -1946565294084511145
+    second: PixelManIdle_42
+  - first:
+      213: -6728259698536012565
+    second: PixelManIdle_43
+  - first:
+      213: -2179413835991844405
+    second: PixelManIdle_44
+  - first:
+      213: 6261835023491303585
+    second: PixelManIdle_45
+  - first:
+      213: -1392848899622277770
+    second: PixelManIdle_46
+  - first:
+      213: 3223756521614648626
+    second: PixelManIdle_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelManIdle_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6828adce7d9461320800000000000000
+      internalID: 2528289432555651718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0a11f3212abd150800000000000000
+      internalID: 5898486336223027420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc4f92d94b27cfc0800000000000000
+      internalID: -3474760991426786113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_3
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b193535a5fdf6dfb0800000000000000
+      internalID: -4623228735968691941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_4
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056d1c874568fd080800000000000000
+      internalID: -9160455419686955440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_5
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c0a825d7e22b510800000000000000
+      internalID: 1563363136441552010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_6
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc93156aff02f4b0800000000000000
+      internalID: -5408242634406519597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63701e49dcc4d200800000000000000
+      internalID: 204013116828185451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_8
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c0eecee9820de50800000000000000
+      internalID: 6832005297766009952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_9
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a972c6bbfb469b0800000000000000
+      internalID: -5087730867327493493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_10
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e0e0713baee5330800000000000000
+      internalID: 3701653998651969049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_11
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5464dcd67f4bc160800000000000000
+      internalID: 7046813413880915037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_12
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f51a28a08c320d0800000000000000
+      internalID: -3448692942168825998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_13
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8e2150c572b6ae0800000000000000
+      internalID: -1555105970150774557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_14
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97ef10fd5dec8770800000000000000
+      internalID: 8614521174969280414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_15
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3be1d6101fb11b20800000000000000
+      internalID: 3103471694058220350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_16
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6b251dab0449fd0800000000000000
+      internalID: -2336171135578491192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_17
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baebbca7d353982b0800000000000000
+      internalID: -5581871724979568981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_18
+      rect:
+        serializedVersion: 2
+        x: 4623
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56082fa9f10fd1440800000000000000
+      internalID: 4908343187437944933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_19
+      rect:
+        serializedVersion: 2
+        x: 4879
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47df62178e70b3330800000000000000
+      internalID: 3691553014472441204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_20
+      rect:
+        serializedVersion: 2
+        x: 5135
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01273f94c5c51df0800000000000000
+      internalID: -210044359327407857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_21
+      rect:
+        serializedVersion: 2
+        x: 5391
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c666c1c68e84b240800000000000000
+      internalID: 4806623411738928834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_22
+      rect:
+        serializedVersion: 2
+        x: 5647
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16394b8ba86797d0800000000000000
+      internalID: -2911743548086208993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_23
+      rect:
+        serializedVersion: 2
+        x: 5903
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8224c8c60b95c7d30800000000000000
+      internalID: 4430514747695972904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_24
+      rect:
+        serializedVersion: 2
+        x: 6159
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171a470040153fbd0800000000000000
+      internalID: -2597643482433281679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_25
+      rect:
+        serializedVersion: 2
+        x: 6415
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4e12b8767260600800000000000000
+      internalID: 434077739757200615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_26
+      rect:
+        serializedVersion: 2
+        x: 6671
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e43813136a804f40800000000000000
+      internalID: 5710716485632537831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_27
+      rect:
+        serializedVersion: 2
+        x: 6927
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacdc61a48fcb0b20800000000000000
+      internalID: 3101800936925617325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_28
+      rect:
+        serializedVersion: 2
+        x: 7183
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa8b6af2a3d1e410800000000000000
+      internalID: 1504716447457970931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_29
+      rect:
+        serializedVersion: 2
+        x: 7439
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f4017df45936b50800000000000000
+      internalID: 6585271250288922525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_30
+      rect:
+        serializedVersion: 2
+        x: 7695
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8825523b6ed01c730800000000000000
+      internalID: 4017507627090399880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_31
+      rect:
+        serializedVersion: 2
+        x: 7951
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47cd46ae2e3f6020800000000000000
+      internalID: 2337155101708109646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_32
+      rect:
+        serializedVersion: 2
+        x: 8207
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b43c054e46c6c60800000000000000
+      internalID: 7812730385351265091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_33
+      rect:
+        serializedVersion: 2
+        x: 8463
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2102573e91f7fd6c0800000000000000
+      internalID: -4116431785226330094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_34
+      rect:
+        serializedVersion: 2
+        x: 8719
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daa65fe2eee32030800000000000000
+      internalID: 3468878796450867921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_35
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610c32367f064d820800000000000000
+      internalID: 2942083072216252438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_36
+      rect:
+        serializedVersion: 2
+        x: 9231
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7da72796b075ab10800000000000000
+      internalID: 1992122339703631228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_37
+      rect:
+        serializedVersion: 2
+        x: 9487
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc90c5f30c810060800000000000000
+      internalID: 6917964451253623995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_38
+      rect:
+        serializedVersion: 2
+        x: 9743
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9c5547f0b520140800000000000000
+      internalID: 4684406684353153519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_39
+      rect:
+        serializedVersion: 2
+        x: 9999
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec7f25915e315050800000000000000
+      internalID: 5787475516263988452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_40
+      rect:
+        serializedVersion: 2
+        x: 10255
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6136cbe5423dbd80800000000000000
+      internalID: -8233369267873631892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_41
+      rect:
+        serializedVersion: 2
+        x: 10511
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d51c3f6102e9b0a0800000000000000
+      internalID: -6865207661160557103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_42
+      rect:
+        serializedVersion: 2
+        x: 10767
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a2df9ad296cf4e0800000000000000
+      internalID: -1946565294084511145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_43
+      rect:
+        serializedVersion: 2
+        x: 11023
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be42f28b37b60a2a0800000000000000
+      internalID: -6728259698536012565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_44
+      rect:
+        serializedVersion: 2
+        x: 11279
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc97227c9aa21c1e0800000000000000
+      internalID: -2179413835991844405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_45
+      rect:
+        serializedVersion: 2
+        x: 11535
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a88c49f6c186e650800000000000000
+      internalID: 6261835023491303585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_46
+      rect:
+        serializedVersion: 2
+        x: 11791
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d68303e4b9bace0800000000000000
+      internalID: -1392848899622277770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManIdle_47
+      rect:
+        serializedVersion: 2
+        x: 12047
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235a039e9751dbc20800000000000000
+      internalID: 3223756521614648626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PixelManIdle_0: 2528289432555651718
+      PixelManIdle_1: 5898486336223027420
+      PixelManIdle_10: 3701653998651969049
+      PixelManIdle_11: 7046813413880915037
+      PixelManIdle_12: -3448692942168825998
+      PixelManIdle_13: -1555105970150774557
+      PixelManIdle_14: 8614521174969280414
+      PixelManIdle_15: 3103471694058220350
+      PixelManIdle_16: -2336171135578491192
+      PixelManIdle_17: -5581871724979568981
+      PixelManIdle_18: 4908343187437944933
+      PixelManIdle_19: 3691553014472441204
+      PixelManIdle_2: -3474760991426786113
+      PixelManIdle_20: -210044359327407857
+      PixelManIdle_21: 4806623411738928834
+      PixelManIdle_22: -2911743548086208993
+      PixelManIdle_23: 4430514747695972904
+      PixelManIdle_24: -2597643482433281679
+      PixelManIdle_25: 434077739757200615
+      PixelManIdle_26: 5710716485632537831
+      PixelManIdle_27: 3101800936925617325
+      PixelManIdle_28: 1504716447457970931
+      PixelManIdle_29: 6585271250288922525
+      PixelManIdle_3: -4623228735968691941
+      PixelManIdle_30: 4017507627090399880
+      PixelManIdle_31: 2337155101708109646
+      PixelManIdle_32: 7812730385351265091
+      PixelManIdle_33: -4116431785226330094
+      PixelManIdle_34: 3468878796450867921
+      PixelManIdle_35: 2942083072216252438
+      PixelManIdle_36: 1992122339703631228
+      PixelManIdle_37: 6917964451253623995
+      PixelManIdle_38: 4684406684353153519
+      PixelManIdle_39: 5787475516263988452
+      PixelManIdle_4: -9160455419686955440
+      PixelManIdle_40: -8233369267873631892
+      PixelManIdle_41: -6865207661160557103
+      PixelManIdle_42: -1946565294084511145
+      PixelManIdle_43: -6728259698536012565
+      PixelManIdle_44: -2179413835991844405
+      PixelManIdle_45: 6261835023491303585
+      PixelManIdle_46: -1392848899622277770
+      PixelManIdle_47: 3223756521614648626
+      PixelManIdle_5: 1563363136441552010
+      PixelManIdle_6: -5408242634406519597
+      PixelManIdle_7: 204013116828185451
+      PixelManIdle_8: 6832005297766009952
+      PixelManIdle_9: -5087730867327493493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,4 +1,5 @@
 using UnityEngine;
+using System;
 
 public class CameraFollow : MonoBehaviour
 {
@@ -6,7 +7,7 @@ public class CameraFollow : MonoBehaviour
     public float followSpeed = 5f;  // Szybkoœæ ruchu kamery
     public Vector2 deadZoneSize = new Vector2(2f, 2f); // Rozmiar martwej strefy (kwadrat)
 
-    private Vector3 targetPosition; // Pozycja, do której kamera ma siê poruszaæ
+    public Vector3 targetPosition; // Pozycja, do której kamera ma siê poruszaæ
 
     void Start()
     {
@@ -20,10 +21,10 @@ public class CameraFollow : MonoBehaviour
     {
         if (target == null) return; // Sprawdzenie, czy target istnieje
 
-        Vector3 delta = target.position - transform.position; // Ró¿nica miêdzy kamer¹ a targetem
+        Vector3 delta = target.position - transform.position; // Ró¿nica miêdzy kamer¹ a targetem DELTA - na skilky peresunutys
 
         // Sprawdzamy, czy target opuœci³ martw¹ strefê
-        if (Mathf.Abs(delta.x) > deadZoneSize.x / 2 || Mathf.Abs(delta.y) > deadZoneSize.y / 2)
+        if (Mathf.Abs(delta.x) > deadZoneSize.x || Mathf.Abs(delta.y) > deadZoneSize.y)
         {
             // Jeœli target wyjdzie poza martw¹ strefê, kamera zaczyna go œledziæ
             targetPosition = new Vector3(target.position.x, target.position.y, -10f);
@@ -31,11 +32,11 @@ public class CameraFollow : MonoBehaviour
         else
         {
             // Jeœli target siê zatrzyma³, kamera wraca do jego centrum
-            targetPosition = new Vector3(target.position.x, target.position.y, -10f);
+            //targetPosition = new Vector3(target.position.x, target.position.y, -10f);
         }
 
         // P³ynne przemieszczanie kamery w kierunku targetPosition
-        transform.position = Vector3.Lerp(transform.position, targetPosition, followSpeed * Time.deltaTime);
+        transform.position = Vector3.Lerp(transform.position, targetPosition, MathF.Pow(followSpeed * Time.deltaTime, 1));
     }
 }
 
